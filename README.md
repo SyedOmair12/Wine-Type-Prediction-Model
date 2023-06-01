@@ -4,11 +4,14 @@ Made decisions on which predictive model to use based on the goal of the project
 Preprocessed the dataset to prepare it for model training, including shuffling, mapping, and cleaning as needed
 Trained and built the chosen predictive model and evaluated its performance through testing and benchmarking
 Utilized visualisation techniques to communicate results and insights to stakeholders and enhance the understanding of the project outcomes
-Features:
 
+Features:
 Data Science Lifecycle: Followed a comprehensive data science process from start to finish, including data observation, model selection, data preprocessing, model training, and result visualization
+
 Predictive Modeling: Utilized a machine learning approach to build a predictive model capable of taking features of a tuple and predicting the corresponding wine type
+
 Performance Evaluation: Measured the performance of the model through testing and benchmarking, and presented results in a clear and concise manner
+
 Visualization: Used visual elements to attract the reader's attention and enhance communication with stakeholders
 Results:
 
